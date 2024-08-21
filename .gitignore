@@ -1,0 +1,7 @@
+#folder
+.vscode/
+.ipynb_checkpoints/
+
+#file
+*.ipynb_checkpoints
+
