@@ -58,6 +58,26 @@
 - **Wikipedia Data Extraction**: Extract data related to '여명의 눈동자' from [Wikipedia](https://ko.wikipedia.org/wiki/여명의_눈동자).
 - **Chicago Sandwich Restaurant Analysis & Visualization**: Crawl and analyze information (location, reviews, etc.) from [The 50 Best Sandwiches in Chicago](https://www.chicagomag.com/chicago-magazine/november-2012/best-sandwiches-chicago/) and visualize the data on a map.
 
+---
+
+
+## 4. Oil Price Analysis
+
+### 📌 Project Goals
+
+#### 4-1. BeautifulSoup & Selenium
+- **Objective**: Crawl fuel price data from gas stations in Seoul to analyze whether self-service gas stations are cheaper than regular ones, and visualize the findings.
+- **Target Data**: 
+    - Brand
+    - Price
+    - Self-service availability
+    - Location
+- **Technology Stack**: BeautifulSoup, Selenium, Matplotlib (Boxplot), Folium
+- **Analysis and Visualization**:
+    - Crawl fuel price data from gas stations in Seoul and compare the prices of self-service gas stations versus regular ones.
+    - Visualize the price difference between self-service and regular gas stations using a Boxplot to analyze the price distribution.
+    - Use Folium to map the locations of gas stations in Seoul and display their respective prices visually.
+    - Calculate statistical values like the average, minimum, and maximum fuel prices to analyze price differences between self-service and regular gas stations.
 
 
 <br><br><br><hr><small>* I have referenced lecture from ZeroBase Data School.</small>
