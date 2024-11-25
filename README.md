@@ -46,6 +46,18 @@
 ### 2-5. Visualization
 - **Use Seaborn & Folium**: Utilize Seaborn for detailed statistical graphs and Folium for geographic visualizations of crime data.
 
+---
+
+
+## 3. Web Crawling
+
+### 📌 Project Goals
+
+### 3-1. BeautifulSoup
+- **USD Exchange Rate Check**: Crawl real-time USD exchange rate data from [Naver Finance](https://finance.naver.com/marketindex/) using Python.
+- **Wikipedia Data Extraction**: Extract data related to '여명의 눈동자' from [Wikipedia](https://ko.wikipedia.org/wiki/여명의_눈동자).
+- **Chicago Sandwich Restaurant Analysis & Visualization**: Crawl and analyze information (location, reviews, etc.) from [The 50 Best Sandwiches in Chicago](https://www.chicagomag.com/chicago-magazine/november-2012/best-sandwiches-chicago/) and visualize the data on a map.
+
 
 
 <br><br><br><hr><small>* I have referenced lecture from ZeroBase Data School.</small>
