@@ -79,5 +79,17 @@
     - Use Folium to map the locations of gas stations in Seoul and display their respective prices visually.
     - Calculate statistical values like the average, minimum, and maximum fuel prices to analyze price differences between self-service and regular gas stations.
 
+---
+
+
+## 5. Time Series Analysis
+
+---
+
+
+## 6. Naver API
+
+---
+
 
 <br><br><br><hr><small>* I have referenced lecture from ZeroBase Data School.</small>
