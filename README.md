@@ -92,4 +92,15 @@
 ---
 
 
+## 7. Population Analysis
+
+### 📌 Project Goals
+
+#### 7-1. Identification of Population Decline Risk Areas
+#### 7-2. Geographic Visualization of Risk Areas
+#### 7-3. Cartogram Representation of Population Decline
+
+---
+
+
 <br><br><br><hr><small>* I have referenced lecture from ZeroBase Data School.</small>
